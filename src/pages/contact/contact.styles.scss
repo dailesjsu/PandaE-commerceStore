@@ -1,0 +1,18 @@
+.contact-component {
+    text-align: center;
+
+    .contact-intro {
+        text-align: center;
+    }
+
+    .contact-list {
+        display: flex;
+        justify-content: space-evenly;
+
+        .contact-list-img {
+            height: 200px;
+            width: 200px;
+        }
+    }
+
+}
